@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **manasavybhavi@gmail.com**
 
-- 📄 Know about my experiences [I'm a highly motivated and adaptable college student with a strong foundation in Java,Web development. I possess excellent communication, problem-solving, and analytical skills, honed through doing courses and attendeding workshops, challenges. I'm eager to leverage my knowledge and skills to contribute to a dynamic and challenging environment.](I'm a highly motivated and adaptable college student with a strong foundation in Java,Web development. I possess excellent communication, problem-solving, and analytical skills, honed through doing courses and attendeding workshops, challenges. I'm eager to leverage my knowledge and skills to contribute to a dynamic and challenging environment.)
+- 📄 Know about my experiences :I'm a highly motivated and adaptable college student with a strong foundation in Java,Web development. I possess excellent communication, problem-solving, and analytical skills, honed through doing courses and attendeding workshops, challenges. I'm eager to leverage my knowledge and skills to contribute to a dynamic and challenging environment.
 
 - ⚡ Fun fact **I think I'm funny**
 

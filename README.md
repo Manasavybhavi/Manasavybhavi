@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manasa vybhavi</h1>
-<h3 align="center">A passionate frontend developer from India..I am eager to bring my skills and passion for development to a dynamic team where I can contribute to innovative projects and continue to grow professionally.</h3>
+<h3 align="center">A passionate frontend developer from India.I am eager to bring my skills and passion for development to a dynamic team where I can contribute to innovative projects and continue to grow professionally.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 - 🔭 I’m currently working on **JavaScript,React.JS**
